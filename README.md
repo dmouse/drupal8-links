@@ -38,6 +38,7 @@
     + [Drupal 8: Undercover initiatives](http://pcambra.github.io/d8undercover/)
     + [One Drupal 8 Slide Deck To Rule Them All - Please give this at your local event!](http://webchick.net/drupal-8-slides)
     + [REST and Serialization in Drupal 8](http://linclark.github.io/d8-rest-slides/)
+    + [Symfony2 meets Drupal 8](http://sssslide.com/speakerdeck.com/fabpot/symfony2-meets-drupal-8)
 + Screencasts
     + [PHP Tutorial Screencasts](http://knpuniversity.com/)
 + Virtual Machines & Stacks
